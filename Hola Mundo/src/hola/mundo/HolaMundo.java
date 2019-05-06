@@ -21,8 +21,8 @@ public class HolaMundo {
         
         System.out.println("UNO");
         System.out.println("DOS");
-        
-        System.out.println("ADIOS");
+        System.out.println("TRES");
+        System.out.println("CUATRO");
 
     }
     

@@ -7,7 +7,7 @@ package hola.mundo;
 
 /**
  *
- * @author dam16
+ * @author Luis Jimenez Canet
  */
 public class HolaMundo {
 
@@ -17,6 +17,11 @@ public class HolaMundo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("HOLA MUNDO");
+        
+        System.out.println("ADIOS");
+        System.out.println("UNO");
+        System.out.println("DOS");
+
     }
     
 }

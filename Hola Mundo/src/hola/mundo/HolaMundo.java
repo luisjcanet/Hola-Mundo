@@ -16,11 +16,13 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("HOLA MUNDO");
+        System.out.println("HOLA UNIVERSO");
         
-        System.out.println("ADIOS");
+        
         System.out.println("UNO");
         System.out.println("DOS");
+        
+        System.out.println("ADIOS");
 
     }
     
